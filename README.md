@@ -1,3 +1,11 @@
+### Live Preview
+https://restaurant-reactapp.netlify.app
+
+### Demo
+![Screenshot (13)](https://github.com/Anuj7815/Restaurant_Website/assets/105466353/f33e6055-8fc6-4f54-a2ad-fcb0bac88131)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
