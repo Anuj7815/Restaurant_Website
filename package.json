@@ -1,6 +1,6 @@
 {
   "name": "restaurant",
-  "homepage":"https://github.com/Anuj7815/Restaurant_Website.git",
+  "homepage": "https://github.com/Anuj7815/Restaurant_Website.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
